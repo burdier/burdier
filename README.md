@@ -6,7 +6,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/burdierluis?style=for-the-badge)
 
 
-github# 🪙~> echo "I consider myself as a  geek and crazy about Gnu/linux 💕"
+github# 🪙~> echo "Linux 💕"
       
 
 ## 𝗦𝘁𝗮𝘁𝘀
