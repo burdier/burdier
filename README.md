@@ -1,7 +1,7 @@
 :fire:
 
 
-### Hey 👋, I'm Luis Miguel Burdier
+### Hey 👋, I'm Luis  Burdier
 ![GitHub followers](https://img.shields.io/github/followers/burdier?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/burdierluis?style=for-the-badge)
 
